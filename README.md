@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @owos
+- 👋 Hi, I’m Abraham Owodunni
 - 👀 I’m interested in Data Analytics, Data Science and Machine Learning 
 - 🌱 I’m currently learning about building model with Machine Learning
 - 💞️ I’m looking to collaborate on project that will enble explore areas in Business and Health
